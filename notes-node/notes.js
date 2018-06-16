@@ -1,5 +1,3 @@
-console.log('starting notes.js');
-
 const fs = require('fs');
 
 // checks if the file exists
@@ -32,7 +30,7 @@ var addNote = (title, body) => {
 };
 
 var getAll = () => {
-  console.log('Getting all notes');
+  return fetchNotes();
 };
 
 var getNote = (title) => {
