@@ -4,6 +4,17 @@ This repository is used to store code for tasks and projects form different cour
 
 ## History of the projects I've worked on.
 
+#### 17.06.2018
+Weather application that uses Google's API for fetching the longitude and altitude based on user input.
+
+__To download dependencies:__ `npm install`
+
+__To run go to:__ /weather-app - `node app.js [args]`
+
+The only `[args]` that the program takes is location. For example `node app.js -a "SOME ADDRESS"` (note: the address must be in quotes).
+
+For more information run `node app.js --help`
+
 #### 15.06.2018
 Note taking application.
 
