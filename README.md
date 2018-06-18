@@ -15,6 +15,10 @@ The only `[args]` that the program takes is location. For example `node app.js -
 
 For more information run `node app.js --help`
 
+The app uses Dark Sky API for weather information so in order to use it you must register for their api and createa file called `key.js` inside `/weather-app` and declare a `const = "YOUR KEY"`. 
+
+---
+
 #### 15.06.2018
 Note taking application.
 
