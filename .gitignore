@@ -8,3 +8,4 @@
 /web-server/node_modules
 /web-server/server.log
 /deploy.sh
+/tests/node_modules
