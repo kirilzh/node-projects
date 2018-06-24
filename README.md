@@ -4,6 +4,26 @@ This repository is used to store code for tasks and projects form different cour
 
 ## History of the projects I've worked on.
 
+#### 23.06.2018
+Working with Mocha for testing functions.
+
+__To download dependencies:__ `npm install`
+
+__To run go to:__ /tests - `npm start`
+
+---
+
+#### 19.06.2018
+Web server that is deployed on heroku. Only for testing purposes. The projects main purpose is to better understand templating and express.
+
+__To download dependencies:__ `npm install`
+
+__To run go to:__ /web-server - `node server.js`
+
+The default server is running on `localhost:3000`.
+
+---
+
 #### 17.06.2018
 Weather application that uses Google's API for fetching the longitude and altitude based on user input.
 
@@ -15,7 +35,7 @@ The only `[args]` that the program takes is location. For example `node app.js -
 
 For more information run `node app.js --help`
 
-The app uses Dark Sky API for weather information so in order to use it you must register for their api and createa file called `key.js` inside `/weather-app` and declare a `const = "YOUR KEY"`. 
+The app uses Dark Sky API for weather information so in order to use it you must register for their api and createa file called `key.js` inside `/weather-app` and declare a `const = "YOUR KEY"`.
 
 ---
 
