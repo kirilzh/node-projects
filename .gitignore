@@ -9,3 +9,4 @@
 /web-server/server.log
 /deploy.sh
 /tests/node_modules
+/todo-api/node_modules

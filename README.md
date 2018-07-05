@@ -4,6 +4,12 @@ This repository is used to store code for tasks and projects form different cour
 
 ## History of the projects I've worked on.
 
+#### 04.07.2018
+Setting up a project with mongodb.
+
+__To download dependencies:__ `npm install`
+
+
 #### 23.06.2018
 Working with Mocha for testing functions.
 
