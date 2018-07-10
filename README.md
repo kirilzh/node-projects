@@ -5,11 +5,13 @@ This repository is used to store code for tasks and projects form different cour
 ## History of the projects I've worked on.
 
 #### 04.07.2018
-Setting up a project with mongodb.
+Setting up a project with mongodb. This project is a todo-api.
 
 __To download dependencies:__ `npm install`
 
+__To run go to:__ /web-server - `node server.js`
 
+---
 #### 23.06.2018
 Working with Mocha for testing functions.
 
