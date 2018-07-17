@@ -10,4 +10,4 @@
 /deploy.sh
 /tests/node_modules
 /todo-api/node_modules
-/emaily/
+/emaily/node_modules
