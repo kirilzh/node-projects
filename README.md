@@ -5,13 +5,13 @@ This repository is used to store code for tasks and projects form different cour
 ## History of the projects I've worked on.
 
 #### 04.07.2018
-Setting up a project with mongodb. This project is a REST todo-api which can add, update, and delete todos.
+Setting up a project with mongodb. This project is a REST todo-api which can add, update, and delete todos. An authentication system is also implemented so to be able to perform these operations you have to create a user first.
 
 __To download dependencies:__ `npm install`
 
 __To run go to:__ /todo-api - `node server.js`
 
-Using postman you can go to `localhost:3000/todos` and make a `POST` request to create a note. 
+Using postman you can go to `localhost:3000/todos` and make a `POST` request to create a note.
 
 ---
 #### 23.06.2018
