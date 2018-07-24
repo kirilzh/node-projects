@@ -4,6 +4,22 @@ This repository is used to store code for tasks and projects form different cour
 
 ## History of the projects I've worked on.
 
+#### 24.07.2018
+Async-await is a project that I used to better understand this functionality.
+
+#### 19.07.2018
+Chat app is a project using socket.io for creating a realtime chat web-app. You can create rooms and have private conversations. You can also send your location as a message.
+
+__To download dependencies:__ `npm install`
+
+__To run go to:__ /chat-app - `node server/server.js`
+
+The app will run on `localhost:3000`.
+
+It is also deployed on [heroku](https://radiant-gorge-47143.herokuapp.com/).
+
+---
+
 #### 04.07.2018
 Setting up a project with mongodb. This project is a REST todo-api which can add, update, and delete todos. An authentication system is also implemented so to be able to perform these operations you have to create a user first.
 
